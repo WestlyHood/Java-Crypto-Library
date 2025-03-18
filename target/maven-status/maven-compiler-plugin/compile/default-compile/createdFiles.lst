@@ -2,3 +2,4 @@ SHA256Hash.class
 ECDSAUtils.class
 MnemonicGenerator.class
 AESUtils.class
+MerkleTreeGenerator.class
