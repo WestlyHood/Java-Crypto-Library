@@ -1,5 +1,6 @@
-SHA256Hash.class
 ECDSAUtils.class
+APIKeySecurity.class
+SHA256Hash.class
 MnemonicGenerator.class
 AESUtils.class
 MerkleTreeGenerator.class
