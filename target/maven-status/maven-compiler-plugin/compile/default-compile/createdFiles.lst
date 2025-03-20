@@ -1,5 +1,6 @@
 ECDSAUtils.class
 APIKeySecurity.class
+BlockchainAddressValidator.class
 SHA256Hash.class
 MnemonicGenerator.class
 AESUtils.class
