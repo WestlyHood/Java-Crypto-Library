@@ -1,3 +1,4 @@
+PasswordSecurity.class
 ECDSAUtils.class
 APIKeySecurity.class
 BlockchainAddressValidator.class
