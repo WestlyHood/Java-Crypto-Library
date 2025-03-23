@@ -1,5 +1,6 @@
 PasswordSecurity.class
 ECDSAUtils.class
+HMACGenerator.class
 APIKeySecurity.class
 RSAEncryptDecrypt.class
 BlockchainAddressValidator.class
