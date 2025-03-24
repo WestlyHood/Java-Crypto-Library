@@ -4,6 +4,7 @@ HMACGenerator.class
 APIKeySecurity.class
 RSAEncryptDecrypt.class
 BlockchainAddressValidator.class
+SecureRNG.class
 SHA256Hash.class
 MnemonicGenerator.class
 AESUtils.class
