@@ -1,11 +1,12 @@
-PasswordSecurity.class
-ECDSAUtils.class
 HMACGenerator.class
 APIKeySecurity.class
-RSAEncryptDecrypt.class
 BlockchainAddressValidator.class
 SecureRNG.class
 SHA256Hash.class
+PasswordSecurity.class
+ECDSAUtils.class
+RSAEncryptDecrypt.class
 MnemonicGenerator.class
 AESUtils.class
+TOTPGenerator.class
 MerkleTreeGenerator.class
