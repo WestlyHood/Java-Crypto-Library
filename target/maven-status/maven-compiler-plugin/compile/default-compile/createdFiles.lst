@@ -1,5 +1,6 @@
 HMACGenerator.class
 APIKeySecurity.class
+SecureKeyStorage.class
 BlockchainAddressValidator.class
 SecureRNG.class
 SHA256Hash.class
