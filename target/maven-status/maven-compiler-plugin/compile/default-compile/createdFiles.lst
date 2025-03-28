@@ -7,6 +7,7 @@ SHA256Hash.class
 PasswordSecurity.class
 ECDSAUtils.class
 RSAEncryptDecrypt.class
+TransactionIntegrityChecker.class
 BlockchainTimestamp.class
 MnemonicGenerator.class
 AESUtils.class
